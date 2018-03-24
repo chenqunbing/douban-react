@@ -1,0 +1,20 @@
+.oneMovieContainer{
+	float: left;
+	display: flex;
+	flex-direction: column;
+	padding: 0 22px;
+	text-align: center;
+	margin-top: 15px;
+}
+.oneMovieContainer>img{
+	width: 200px;
+	height: 270px;
+}
+.oneMovieContainer h3{
+	color: #333333;
+	font-size: 18px;
+	font-weight: 400;
+	margin: 0;
+	padding: 0;
+}
+

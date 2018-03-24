@@ -1,0 +1,16 @@
+.starContainer{
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+}
+.starContainer img{
+	width: 10px;
+	height: 10px;
+	padding-left: 2px;
+}
+.score{
+	color: #1f3463;
+	font-size: 12px;
+	margin-left: 10px;
+}
